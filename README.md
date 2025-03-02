@@ -7,3 +7,4 @@ AI papers coded for mastering concepts
 4. Roformers
 5. ALIBI
 6. Generative Pretrained (GPT)
+7. Flash Attention
